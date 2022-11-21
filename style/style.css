@@ -204,6 +204,7 @@ body{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     row-gap: 30px;
+    justify-items: center;
 }
 .main__strategy{
     margin-bottom: 155px;
